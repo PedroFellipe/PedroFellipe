@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFellipe&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFellipe&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
